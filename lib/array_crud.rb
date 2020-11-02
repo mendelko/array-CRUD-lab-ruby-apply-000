@@ -8,8 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = [1,2,3,4]
-  A = array.push(5, 6, 7)
-  puts "#{A}"
+  puts "push(5, 6, 7)"
 end
 
 def add_element_to_start_of_array(array, element)
